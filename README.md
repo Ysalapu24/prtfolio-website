@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
@@ -126,3 +126,4 @@
 <p align="center">
   <sub>Built with skills. Always learning.</sub>
 </p>
+](https://github.com/Ysalapu24/yeshsalapu.git)
