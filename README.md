@@ -1,11 +1,11 @@
-[<p align="center">
+<p align="center">
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Yeshwanth Salapu 👋</h1>
 
 <p align="center">
-  <em>CS Graduate · Cloud Engineering · AI/ML</em>
+  <em>CS Graduate · AI/ML Engineer · Cloud & Systems</em>
 </p>
 
 <p align="center">
@@ -30,17 +30,19 @@
 
 | # | Project | What it does | Tech |
 |---|---------|--------------|------|
-| 01 | [JARVIS](https://github.com/Ysalapu24/Jarvis) | Iron Man-inspired AI voice assistant — wake word, ElevenLabs TTS, Gmail/Calendar/Drive/WhatsApp integrations, Flutter app & Siri shortcuts | Python, Flutter, FastAPI, ElevenLabs, Google APIs |
-| 02 | [HalluGuard for Retail](https://github.com/Ysalapu24/halluguard-extension) | Hallucination detection layer for retail AI — validates AI-generated product info against a RAG knowledge base | Python, FastAPI, Claude API, RAG |
+| 01 | [JARVIS](https://github.com/Ysalapu24/JARVIS) | Iron Man-inspired AI voice assistant — wake word, ElevenLabs TTS, Gmail/Calendar/Drive/WhatsApp, Flutter app & Siri shortcuts | Python, Flutter, FastAPI, ElevenLabs, Google APIs |
+| 02 | [HalluGuard for Retail](https://github.com/Ysalapu24/halluguard-extension) | Chrome extension that auto-detects retail AI chatbots and flags hallucinations in real-time using Claude API | JavaScript, Chrome MV3, Claude API |
 | 03 | [Community Engagement Dashboard](https://github.com/Ysalapu24/CommunityEngagementDashboard) | Real-time Discord & Slack sentiment analysis dashboard with engagement trend tracking | Python, Streamlit, Discord API, Slack API, NLP |
-| 04 | [Food Safety Recall Middleware](https://github.com/Ysalapu24/food-safety-middleware) | Multi-agent AI pipeline monitoring FDA recall data and routing alerts to stakeholders | Dialogflow CX, Flowise, Node.js, REST API |
-| 05 | [Glass Classification System](https://github.com/Ysalapu24/glass-classification) | ML-powered forensic glass type classifier with React frontend and Flask API | Python, scikit-learn, Flask, React |
-| 06 | [Office Workplace Database](https://github.com/Ysalapu24/office-workplace-db) | Relational DB system for office operations — normalized schema, complex queries, stored procedures | PostgreSQL, SQL |
-| 07 | [Lego Brick Counter](https://github.com/Capstone-4901-Team-NextGen-Solutions/Lego-Brick-Counter) | CV-based brick identifier, inventory matcher & set suggester — UNT Capstone | Python, Flask, OpenCV, Flutter, Azure CV, SQLite |
-| 08 | [Video Segmentation System](https://github.com/Ysalapu24/video-segmentation) | Detects scene transitions & exports each clip using histogram analysis | Python, OpenCV, NumPy, Matplotlib |
-| 09 | [Smart Inventory Demo](https://github.com/Ysalapu24/smart-inventory-demo) | Low-stock alerts, CRUD API & analytics dashboard | Python, Flask, SQLite, REST API |
-| 10 | [Mini Cloud Monitor](https://github.com/Ysalapu24/Mini-Cloud-Monitor) | Pings endpoints, measures latency & serves a live status dashboard | Node.js, Express.js, JavaScript |
-| 11 | [UDP Ping Client-Server](https://github.com/Ysalapu24/udp-ping) | Simulates packet loss & measures RTT over UDP | C, UDP Sockets, Networking |
+| 04 | [Food Safety Recall Middleware](https://github.com/Ysalapu24/food-safety-middleware) | 5-agent AI pipeline monitoring live FDA recall data — routes alerts, classifies hazards, Claude analysis, interactive US map | Python, FastAPI, Claude API, React, D3.js |
+| 05 | [Glass Classification System](https://github.com/Ysalapu24/glass-classification) | ML forensic glass type classifier (83.3% accuracy) with React frontend and Flask API | Python, scikit-learn, Flask, React |
+| 06 | [Office Workplace Database](https://github.com/Ysalapu24/office-workplace-db) | Full relational DB — 65 employees, 7 depts, payroll, attendance, stored procedures, triggers | PostgreSQL, SQL |
+| 07 | [Voice Slide Builder](https://github.com/Ysalapu24/Voice-Slide-Builder) | Speak your slides into existence — voice → AI → PowerPoint. Built for AI Buildathon Dallas 2026 | Python, Flask, Groq Whisper, Claude API, PowerPoint |
+| 08 | [Lego Brick Counter](https://github.com/Capstone-4901-Team-NextGen-Solutions/Lego-Brick-Counter) | CV-based brick identifier, inventory matcher & set suggester — UNT Capstone | Python, Flask, OpenCV, Flutter, Azure CV, SQLite |
+| 09 | [Video Segmentation System](https://github.com/Ysalapu24/video-segmentation) | Detects scene transitions & exports each clip using histogram analysis | Python, OpenCV, NumPy, Matplotlib |
+| 10 | [Smart Inventory Demo](https://github.com/Ysalapu24/smart-inventory-demo) | Low-stock alerts, CRUD API & analytics dashboard | Python, Flask, SQLite, REST API |
+| 11 | [Mini Cloud Monitor](https://github.com/Ysalapu24/Mini-Cloud-Monitor) | Pings endpoints, measures latency & serves a live status dashboard | Node.js, Express.js, JavaScript |
+| 12 | [UDP Ping Client-Server](https://github.com/Ysalapu24/udp-ping) | Simulates packet loss & measures RTT over UDP | C, UDP Sockets, Networking |
+| 13 | [Portfolio Website](https://github.com/Ysalapu24/prtfolio-website) | Personal portfolio — dark theme, GitHub stats, 13+ projects | HTML, CSS, JavaScript |
 
 ---
 
@@ -61,7 +63,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -124,6 +125,5 @@
 ---
 
 <p align="center">
-  <sub>Built with skills. Always learning.</sub>
+  <sub>Built with skills. Always learning. · AI Buildathon Dallas 2026 🏆</sub>
 </p>
-](https://github.com/Ysalapu24/yeshsalapu.git)
